@@ -21,3 +21,11 @@
 
 - Grab Telegram
 
+ 
+ 
+ How to use:
+ 
+ - Extract the zip file
+ - Read IMPORTANT.txt
+ - Open Cereal.exe
+ 
